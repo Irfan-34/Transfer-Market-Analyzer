@@ -1,0 +1,1 @@
+print("Football Transfer Analyzer started!")
