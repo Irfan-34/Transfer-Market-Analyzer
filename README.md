@@ -123,3 +123,4 @@ TM_ANALYZER/
 1. **Factual vs. Predicted**: Predictions are probabilistic estimates, clearly demarcated from confirmed transfers.
 2. **No Aggressive Scraping**: Uses public APIs, RSS feeds, and standard datasets.
 3. **Audit Trail**: Every news article and rumour retains source URL, ingestion timestamp, and entity matching confidence.
+4. .
